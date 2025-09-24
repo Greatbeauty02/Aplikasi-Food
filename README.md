@@ -4,7 +4,7 @@ Mobile / Android Application – Food Ordering / Management
 
 A mobile application called Food App, created as the Final Semester Exam project (Semester 4, June 2025). The app is intended for food ordering / restaurant menu management (atau sesuai fungsi lengkap aplikasimu).
 
-📌 This project was developed for the Semester 4 Final Examination. Developer / Role: Gloris Nilam Magdalena (Fullstack / Android Developer)
+📌 This project was developed for the Semester 4 Final Examination. Developer / Role: Great Beauty Simanungkalit (Fullstack / Android Developer)
 
 📊 Key Features
 
